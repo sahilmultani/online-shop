@@ -1,0 +1,105 @@
+/*
+Theme Name: WP Learning Theme
+Description: This is my first theme
+Author: Mulatani Sahil 
+*/
+
+html.js-focus-visible {
+    margin-top: 0!important;
+}
+html, body {
+    padding: 0;
+    margin: 0;
+}
+* {
+    box-sizing: border-box;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+li {
+    list-style: none;
+}
+
+/* header style start */
+.site-header {
+    width: 100%;
+    display: inline-block;
+}
+.site-header .site-logo {
+    width: 100%;
+    text-align: center;
+    background-color: #e1e1e1;
+    padding: 35px 0 50px;
+    margin-bottom: 0;
+}
+.nav-menu {
+    padding: 20px 0;
+}
+.cat-post-section .post-section {
+    background-color: #3fc936;
+    padding: 10px 10px;
+}
+.cat-post-section .post-section h3 {
+    margin-bottom: 0;
+    color: #fff;
+}
+.banner-intro {
+    background: #fff;
+    margin-bottom: 50px;
+}
+#nav.nav-menu > ul > li > a {
+    color: #fff;
+}
+#nav.nav-menu > ul > li:hover > a, #nav.nav-menu > ul > li.active > a {
+    color: #000;
+}
+
+/* footer section */
+.site-footer .footer-widget .footer-main {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 32.333333%;
+}
+.site-footer .footer-inner {
+    padding-top: 20px;
+}
+.site-footer .footer-inner .footer-widget h3 {
+    color: #fff;
+}
+.site-footer .footer-inner .footer-widget ul li a {
+    color: #fff;
+}
+
+/* contact from design */
+.contact{
+        padding: 4%;
+}
+.col-md-3{
+    background: #ff9b00;
+}
+.contact-info{
+    margin-top:10%;
+}
+.contact-info img{
+    margin-bottom: 15%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+    background: #fff;
+}
+.contact-form label{
+    font-weight:600;
+}
+.contact-form button{
+    background: #1e73be;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+.contact-form button:focus{
+    box-shadow:none;
+}
