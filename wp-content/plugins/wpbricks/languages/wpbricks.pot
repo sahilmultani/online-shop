@@ -1,0 +1,1590 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-03-16 17:45+0530\n"
+"PO-Revision-Date: 2019-08-08 12:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/bricks.js:4179
+#: assets/js/gutenberg-block/block/select-block/block.js:10
+msgid "Bricks Ready Blocks"
+msgstr ""
+
+#: assets/js/bricks.js:4181
+#: assets/js/gutenberg-block/block/select-block/block.js:12
+msgid "Provides 100+ easy to use non-registered blocks and templates."
+msgstr ""
+
+#: assets/js/bricks.js:4183
+#: assets/js/gutenberg-block/block/select-block/block.js:14
+msgid "Select Block"
+msgstr ""
+
+#: assets/js/bricks.js:4183 assets/js/bricks.js:33256 assets/js/bricks.js:33552
+#: assets/js/bricks.js:34030 assets/js/bricks.js:35119
+#: assets/js/bricks.js:35530 assets/js/bricks.js:35811
+#: assets/js/bricks.js:36877 assets/js/bricks.js:37170
+#: assets/js/bricks.js:42027 assets/js/bricks.js:42522
+#: assets/js/bricks.js:43852 assets/js/bricks.js:44432
+#: assets/js/bricks.js:44821 assets/js/bricks.js:45373
+#: assets/js/gutenberg-block/block/Heading/block.js:57
+#: assets/js/gutenberg-block/block/Icons/block.js:77
+#: assets/js/gutenberg-block/block/accordion/block.js:66
+#: assets/js/gutenberg-block/block/button/block.js:117
+#: assets/js/gutenberg-block/block/column/block.js:63
+#: assets/js/gutenberg-block/block/countdown/block.js:83
+#: assets/js/gutenberg-block/block/counter/block.js:80
+#: assets/js/gutenberg-block/block/image/block.js:119
+#: assets/js/gutenberg-block/block/layout/block.js:56
+#: assets/js/gutenberg-block/block/list/block.js:73
+#: assets/js/gutenberg-block/block/popup/block.js:117
+#: assets/js/gutenberg-block/block/select-block/block.js:14
+#: assets/js/gutenberg-block/block/separator/block.js:59
+#: assets/js/gutenberg-block/block/social-links/block.js:190
+#: assets/js/gutenberg-block/block/tabbing/block.js:127
+msgid "gutenberg"
+msgstr ""
+
+#: assets/js/bricks.js:4183 assets/js/bricks.js:33256 assets/js/bricks.js:33552
+#: assets/js/bricks.js:34030 assets/js/bricks.js:35119
+#: assets/js/bricks.js:35530 assets/js/bricks.js:35811
+#: assets/js/bricks.js:36369 assets/js/bricks.js:36877
+#: assets/js/bricks.js:37170 assets/js/bricks.js:37710
+#: assets/js/bricks.js:42027 assets/js/bricks.js:42522
+#: assets/js/bricks.js:43664 assets/js/bricks.js:43852
+#: assets/js/bricks.js:44432 assets/js/bricks.js:44821
+#: assets/js/bricks.js:45373
+#: assets/js/gutenberg-block/block/Heading/block.js:57
+#: assets/js/gutenberg-block/block/Icons/block.js:77
+#: assets/js/gutenberg-block/block/accordion/block.js:66
+#: assets/js/gutenberg-block/block/button/block.js:117
+#: assets/js/gutenberg-block/block/column/block.js:63
+#: assets/js/gutenberg-block/block/countdown/block.js:83
+#: assets/js/gutenberg-block/block/counter/block.js:80
+#: assets/js/gutenberg-block/block/image/block.js:119
+#: assets/js/gutenberg-block/block/layout/block.js:56
+#: assets/js/gutenberg-block/block/list/block.js:73
+#: assets/js/gutenberg-block/block/media-with-text/block.js:98
+#: assets/js/gutenberg-block/block/popup/block.js:117
+#: assets/js/gutenberg-block/block/select-block/block.js:14
+#: assets/js/gutenberg-block/block/separator/block.js:59
+#: assets/js/gutenberg-block/block/slider/block.js:116
+#: assets/js/gutenberg-block/block/social-links/block.js:190
+#: assets/js/gutenberg-block/block/tabbing/block.js:127
+msgid "Bricks"
+msgstr ""
+
+#: assets/js/bricks.js:31995
+#: assets/js/gutenberg-block/block/multipurpose-gutenberg-block/block.js:23
+msgid "MultiPurpose Gutenberg Block"
+msgstr ""
+
+#: assets/js/bricks.js:31996
+#: assets/js/gutenberg-block/block/multipurpose-gutenberg-block/block.js:24
+msgid "Use one block containing multiple elements."
+msgstr ""
+
+#: assets/js/bricks.js:32339
+#: assets/js/gutenberg-block/block/multipurpose-gutenberg-block/block.js:383
+msgid "Toggle Inserter"
+msgstr ""
+
+#: assets/js/bricks.js:32348
+#: assets/js/gutenberg-block/block/multipurpose-gutenberg-block/block.js:388
+msgid "Page layout settings "
+msgstr ""
+
+#: assets/js/bricks.js:32357
+#: assets/js/gutenberg-block/block/multipurpose-gutenberg-block/block.js:395
+msgid "Full Width"
+msgstr ""
+
+#: assets/js/bricks.js:32367
+msgid "Fixed"
+msgstr ""
+
+#: assets/js/bricks.js:32377
+#: assets/js/gutenberg-block/block/multipurpose-gutenberg-block/block.js:411
+msgid "Semi"
+msgstr ""
+
+#: assets/js/bricks.js:32382
+#: assets/js/gutenberg-block/block/multipurpose-gutenberg-block/block.js:414
+msgid "Background Setting"
+msgstr ""
+
+#: assets/js/bricks.js:32385
+#: assets/js/gutenberg-block/block/multipurpose-gutenberg-block/block.js:415
+msgid "Background Image"
+msgstr ""
+
+#: assets/js/bricks.js:32403
+#: assets/js/gutenberg-block/block/multipurpose-gutenberg-block/block.js:432
+msgid "Upload Image"
+msgstr ""
+
+#: assets/js/bricks.js:32423
+msgid "Remove Background Image"
+msgstr ""
+
+#: assets/js/bricks.js:32437
+msgid "Background Size"
+msgstr ""
+
+#: assets/js/bricks.js:32440
+msgid "ON - Set background size \"Cover\""
+msgstr ""
+
+#: assets/js/bricks.js:32454
+msgid "background Attachment"
+msgstr ""
+
+#: assets/js/bricks.js:32457
+msgid "ON - Set background attachment \"Fixed\" "
+msgstr ""
+
+#: assets/js/bricks.js:32467
+msgid "Select Position"
+msgstr ""
+
+#: assets/js/bricks.js:32469 assets/js/bricks.js:36525
+#: assets/js/gutenberg-block/block/media-with-text/block.js:276
+msgid "Bottom"
+msgstr ""
+
+#: assets/js/bricks.js:32469 assets/js/bricks.js:33395
+#: assets/js/bricks.js:36525 assets/js/bricks.js:36599
+#: assets/js/bricks.js:36976 assets/js/bricks.js:45009
+#: assets/js/gutenberg-block/block/column/block.js:200
+#: assets/js/gutenberg-block/block/media-with-text/block.js:274
+#: assets/js/gutenberg-block/block/media-with-text/block.js:322
+#: assets/js/gutenberg-block/block/popup/block.js:370
+#: assets/js/gutenberg-block/block/separator/block.js:227
+msgid "Center"
+msgstr ""
+
+#: assets/js/bricks.js:32469 assets/js/bricks.js:36976
+#: assets/js/gutenberg-block/block/column/block.js:205
+msgid "Inherit"
+msgstr ""
+
+#: assets/js/bricks.js:32469 assets/js/bricks.js:36976
+#: assets/js/gutenberg-block/block/column/block.js:204
+msgid "Initial"
+msgstr ""
+
+#: assets/js/bricks.js:32469 assets/js/bricks.js:32528
+#: assets/js/bricks.js:33395 assets/js/bricks.js:36599
+#: assets/js/bricks.js:45009
+#: assets/js/gutenberg-block/block/media-with-text/block.js:323
+#: assets/js/gutenberg-block/block/popup/block.js:369
+#: assets/js/gutenberg-block/block/separator/block.js:226
+msgid "Left"
+msgstr ""
+
+#: assets/js/bricks.js:32469 assets/js/bricks.js:32528
+#: assets/js/bricks.js:33395 assets/js/bricks.js:36599
+#: assets/js/bricks.js:45009
+#: assets/js/gutenberg-block/block/media-with-text/block.js:324
+#: assets/js/gutenberg-block/block/popup/block.js:371
+#: assets/js/gutenberg-block/block/separator/block.js:228
+msgid "Right"
+msgstr ""
+
+#: assets/js/bricks.js:32469 assets/js/bricks.js:32528
+#: assets/js/bricks.js:36525
+#: assets/js/gutenberg-block/block/media-with-text/block.js:275
+msgid "Top"
+msgstr ""
+
+#: assets/js/bricks.js:32469
+msgid "Unset"
+msgstr ""
+
+#: assets/js/bricks.js:32482
+msgid "Overlay"
+msgstr ""
+
+#: assets/js/bricks.js:32489
+msgid "Overlay Color"
+msgstr ""
+
+#: assets/js/bricks.js:32493
+msgid "Background Opacity"
+msgstr ""
+
+#: assets/js/bricks.js:32505
+msgid "Background Color"
+msgstr ""
+
+#: assets/js/bricks.js:32521
+msgid "Gradient Background"
+msgstr ""
+
+#: assets/js/bricks.js:32526
+msgid "Select Gradient Type"
+msgstr ""
+
+#: assets/js/bricks.js:32528
+msgid "Select Type"
+msgstr ""
+
+#: assets/js/bricks.js:32528
+msgid "bottom"
+msgstr ""
+
+#: assets/js/bricks.js:32528
+msgid "Top Left"
+msgstr ""
+
+#: assets/js/bricks.js:32528
+msgid "Bottom Left"
+msgstr ""
+
+#: assets/js/bricks.js:32528
+msgid "Top Right"
+msgstr ""
+
+#: assets/js/bricks.js:32528
+msgid "Bottom Right"
+msgstr ""
+
+#: assets/js/bricks.js:32539
+msgid "Gradient Fill 1"
+msgstr ""
+
+#: assets/js/bricks.js:32545 assets/js/bricks.js:32569
+#: assets/js/bricks.js:32572 assets/js/bricks.js:32596
+#: assets/js/bricks.js:32599
+msgid "Color"
+msgstr ""
+
+#: assets/js/bricks.js:32553 assets/js/bricks.js:32580
+#: assets/js/bricks.js:32607
+msgid "Range"
+msgstr ""
+
+#: assets/js/bricks.js:32565
+msgid "Gradient Fill 2"
+msgstr ""
+
+#: assets/js/bricks.js:32592
+msgid "Gradient Fill 3"
+msgstr ""
+
+#: assets/js/bricks.js:32621
+msgid "Border Setting"
+msgstr ""
+
+#: assets/js/bricks.js:32624
+msgid "All Border"
+msgstr ""
+
+#: assets/js/bricks.js:32626 assets/js/bricks.js:32672
+#: assets/js/bricks.js:32718 assets/js/bricks.js:32810
+msgid "Select Border Style"
+msgstr ""
+
+#: assets/js/bricks.js:32628 assets/js/bricks.js:32674
+#: assets/js/bricks.js:32720 assets/js/bricks.js:32766
+#: assets/js/bricks.js:32812
+msgid "Select Style"
+msgstr ""
+
+#: assets/js/bricks.js:32628 assets/js/bricks.js:32674
+#: assets/js/bricks.js:32720 assets/js/bricks.js:32766
+#: assets/js/bricks.js:32812 assets/js/bricks.js:33383
+#: assets/js/bricks.js:33784 assets/js/bricks.js:34381
+#: assets/js/bricks.js:36116 assets/js/bricks.js:43066
+#: assets/js/gutenberg-block/block/accordion/block.js:480
+#: assets/js/gutenberg-block/block/button/block.js:404
+#: assets/js/gutenberg-block/block/image/block.js:449
+#: assets/js/gutenberg-block/block/separator/block.js:212
+#: assets/js/gutenberg-block/block/tabbing/edit.js:403
+msgid "Solid"
+msgstr ""
+
+#: assets/js/bricks.js:32628 assets/js/bricks.js:32674
+#: assets/js/bricks.js:32720 assets/js/bricks.js:32766
+#: assets/js/bricks.js:32812 assets/js/bricks.js:33383
+#: assets/js/bricks.js:33784 assets/js/bricks.js:34381
+#: assets/js/bricks.js:36116 assets/js/bricks.js:43066
+#: assets/js/gutenberg-block/block/accordion/block.js:481
+#: assets/js/gutenberg-block/block/button/block.js:403
+#: assets/js/gutenberg-block/block/image/block.js:451
+#: assets/js/gutenberg-block/block/separator/block.js:214
+#: assets/js/gutenberg-block/block/tabbing/edit.js:404
+msgid "Dashed"
+msgstr ""
+
+#: assets/js/bricks.js:32628 assets/js/bricks.js:32674
+#: assets/js/bricks.js:32720 assets/js/bricks.js:32766
+#: assets/js/bricks.js:32812 assets/js/bricks.js:33383
+#: assets/js/bricks.js:33784 assets/js/bricks.js:34381
+#: assets/js/bricks.js:36116 assets/js/bricks.js:43066
+#: assets/js/gutenberg-block/block/accordion/block.js:482
+#: assets/js/gutenberg-block/block/button/block.js:402
+#: assets/js/gutenberg-block/block/image/block.js:450
+#: assets/js/gutenberg-block/block/separator/block.js:213
+#: assets/js/gutenberg-block/block/tabbing/edit.js:405
+msgid "Dotted"
+msgstr ""
+
+#: assets/js/bricks.js:32638 assets/js/bricks.js:32641
+#: assets/js/bricks.js:32684 assets/js/bricks.js:32687
+#: assets/js/bricks.js:32730 assets/js/bricks.js:32733
+#: assets/js/bricks.js:32776 assets/js/bricks.js:32779
+#: assets/js/bricks.js:32821 assets/js/bricks.js:32824
+#: assets/js/bricks.js:45158 assets/js/gutenberg-block/block/popup/block.js:473
+msgid "Border Color"
+msgstr ""
+
+#: assets/js/bricks.js:32649 assets/js/bricks.js:32695
+#: assets/js/bricks.js:32741 assets/js/bricks.js:32787
+#: assets/js/bricks.js:32832 assets/js/bricks.js:43085
+#: assets/js/gutenberg-block/block/tabbing/edit.js:417
+msgid "Border width"
+msgstr ""
+
+#: assets/js/bricks.js:32658 assets/js/bricks.js:32704
+#: assets/js/bricks.js:32750 assets/js/bricks.js:32796
+#: assets/js/bricks.js:32841 assets/js/bricks.js:43094
+#: assets/js/bricks.js:44617 assets/js/gutenberg-block/block/Icons/block.js:270
+#: assets/js/gutenberg-block/block/tabbing/edit.js:424
+msgid "Border radius"
+msgstr ""
+
+#: assets/js/bricks.js:32670
+msgid "Top Border"
+msgstr ""
+
+#: assets/js/bricks.js:32716
+msgid "Right Border"
+msgstr ""
+
+#: assets/js/bricks.js:32762
+msgid "Bottom Border"
+msgstr ""
+
+#: assets/js/bricks.js:32764 assets/js/bricks.js:43064
+#: assets/js/gutenberg-block/block/tabbing/edit.js:400
+msgid "Border Style"
+msgstr ""
+
+#: assets/js/bricks.js:32808
+msgid "Left Border"
+msgstr ""
+
+#: assets/js/bricks.js:32854
+msgid "General Setting"
+msgstr ""
+
+#: assets/js/bricks.js:33252
+#: assets/js/gutenberg-block/block/separator/block.js:53
+msgid "Bricks Separator"
+msgstr ""
+
+#: assets/js/bricks.js:33254
+#: assets/js/gutenberg-block/block/separator/block.js:56
+msgid "Bricks Separator is a gutenberg block that is used to add seperator."
+msgstr ""
+
+#: assets/js/bricks.js:33256
+#: assets/js/gutenberg-block/block/separator/block.js:59
+msgid "Separator"
+msgstr ""
+
+#: assets/js/bricks.js:33381
+#: assets/js/gutenberg-block/block/separator/block.js:209
+msgid "Separator Style"
+msgstr ""
+
+#: assets/js/bricks.js:33383 assets/js/bricks.js:33784
+#: assets/js/bricks.js:36116
+#: assets/js/gutenberg-block/block/button/block.js:405
+#: assets/js/gutenberg-block/block/image/block.js:452
+#: assets/js/gutenberg-block/block/separator/block.js:215
+msgid "Double"
+msgstr ""
+
+#: assets/js/bricks.js:33383 assets/js/bricks.js:33784
+#: assets/js/bricks.js:34381 assets/js/bricks.js:36116
+#: assets/js/bricks.js:37953
+#: assets/js/gutenberg-block/block/accordion/block.js:479
+#: assets/js/gutenberg-block/block/button/block.js:401
+#: assets/js/gutenberg-block/block/image/block.js:448
+#: assets/js/gutenberg-block/block/separator/block.js:216
+#: assets/js/gutenberg-block/block/slider/edit.js:39
+msgid "None"
+msgstr ""
+
+#: assets/js/bricks.js:33393
+#: assets/js/gutenberg-block/block/separator/block.js:223
+msgid "Separator Align"
+msgstr ""
+
+#: assets/js/bricks.js:33548
+#: assets/js/gutenberg-block/block/button/block.js:111
+msgid "Bricks Button"
+msgstr ""
+
+#: assets/js/bricks.js:33550
+#: assets/js/gutenberg-block/block/button/block.js:114
+msgid "Bricks Button is a gutenberg block used to add a clickable button."
+msgstr ""
+
+#: assets/js/bricks.js:33552 assets/js/bricks.js:44943
+#: assets/js/gutenberg-block/block/button/block.js:117
+#: assets/js/gutenberg-block/block/popup/block.js:308
+msgid "Button"
+msgstr ""
+
+#: assets/js/bricks.js:33692
+#: assets/js/gutenberg-block/block/button/block.js:335
+msgid "Button Link"
+msgstr ""
+
+#: assets/js/bricks.js:33706 assets/js/bricks.js:36076
+#: assets/js/gutenberg-block/block/button/block.js:345
+#: assets/js/gutenberg-block/block/image/block.js:420
+msgid "Open in New Window"
+msgstr ""
+
+#: assets/js/bricks.js:33717
+#: assets/js/gutenberg-block/block/button/block.js:352
+msgid "Button Width"
+msgstr ""
+
+#: assets/js/bricks.js:33719
+#: assets/js/gutenberg-block/block/button/block.js:355
+#: assets/js/gutenberg-block/block/editor-width/block.js:44
+msgid "Default"
+msgstr ""
+
+#: assets/js/bricks.js:33719
+#: assets/js/gutenberg-block/block/button/block.js:356
+msgid "Full"
+msgstr ""
+
+#: assets/js/bricks.js:33719
+#: assets/js/gutenberg-block/block/button/block.js:357
+msgid "Custom"
+msgstr ""
+
+#: assets/js/bricks.js:33784
+#: assets/js/gutenberg-block/block/button/block.js:406
+msgid "Groove"
+msgstr ""
+
+#: assets/js/bricks.js:33784
+#: assets/js/gutenberg-block/block/button/block.js:407
+msgid "Ridge"
+msgstr ""
+
+#: assets/js/bricks.js:33784
+#: assets/js/gutenberg-block/block/button/block.js:408
+msgid "Inset"
+msgstr ""
+
+#: assets/js/bricks.js:33784
+#: assets/js/gutenberg-block/block/button/block.js:409
+msgid "Outset"
+msgstr ""
+
+#: assets/js/bricks.js:34026
+#: assets/js/gutenberg-block/block/accordion/block.js:60
+msgid "Bricks Accordion"
+msgstr ""
+
+#: assets/js/bricks.js:34027
+#: assets/js/gutenberg-block/block/accordion/block.js:62
+msgid "Bricks Accordion is a gutenberg block used to show & hide content."
+msgstr ""
+
+#: assets/js/bricks.js:34030
+#: assets/js/gutenberg-block/block/accordion/block.js:66
+msgid "accordion"
+msgstr ""
+
+#: assets/js/bricks.js:34208
+#: assets/js/gutenberg-block/block/accordion/block.js:246
+msgid "Bricks - Accordion Items"
+msgstr ""
+
+#: assets/js/bricks.js:34209
+#: assets/js/gutenberg-block/block/accordion/block.js:247
+msgid "This is Bricks accordion block with multiple setting."
+msgstr ""
+
+#: assets/js/bricks.js:34330
+#: assets/js/gutenberg-block/block/accordion/block.js:445
+msgid "Heading..."
+msgstr ""
+
+#: assets/js/bricks.js:34354
+#: assets/js/gutenberg-block/block/accordion/block.js:459
+msgid "This Accordion Open"
+msgstr ""
+
+#: assets/js/bricks.js:34365
+#: assets/js/gutenberg-block/block/accordion/block.js:466
+msgid "Border Width"
+msgstr ""
+
+#: assets/js/bricks.js:34379
+#: assets/js/gutenberg-block/block/accordion/block.js:476
+msgid "Border Type"
+msgstr ""
+
+#: assets/js/bricks.js:34391
+#: assets/js/gutenberg-block/block/accordion/block.js:489
+msgid "Border Radius"
+msgstr ""
+
+#: assets/js/bricks.js:34417
+#: assets/js/gutenberg-block/block/accordion/block.js:507
+msgid "Heading Setting"
+msgstr ""
+
+#: assets/js/bricks.js:34452
+#: assets/js/gutenberg-block/block/accordion/block.js:528
+msgid "Body Setting"
+msgstr ""
+
+#: assets/js/bricks.js:35115 assets/js/gutenberg-block/block/layout/block.js:50
+msgid "Bricks Layout"
+msgstr ""
+
+#: assets/js/bricks.js:35117 assets/js/gutenberg-block/block/layout/block.js:53
+msgid ""
+"Bricks Layout is a gutenberg block which is used to create a column layout."
+msgstr ""
+
+#: assets/js/bricks.js:35119 assets/js/gutenberg-block/block/layout/block.js:56
+msgid "layout"
+msgstr ""
+
+#: assets/js/bricks.js:35140 assets/js/gutenberg-block/block/layout/block.js:77
+msgid "Right sidebar Column"
+msgstr ""
+
+#: assets/js/bricks.js:35337
+msgid "Sidebar layout settings "
+msgstr ""
+
+#: assets/js/bricks.js:35526
+#: assets/js/gutenberg-block/block/Heading/block.js:51
+msgid "Bricks Heading"
+msgstr ""
+
+#: assets/js/bricks.js:35528
+#: assets/js/gutenberg-block/block/Heading/block.js:54
+msgid ""
+"Bricks Heading is a gutenberg block which defines six levels of headings."
+msgstr ""
+
+#: assets/js/bricks.js:35530
+#: assets/js/gutenberg-block/block/Heading/block.js:57
+msgid "Heading"
+msgstr ""
+
+#: assets/js/bricks.js:35628
+#: assets/js/gutenberg-block/block/Heading/block.js:207
+msgid "H1"
+msgstr ""
+
+#: assets/js/bricks.js:35628
+#: assets/js/gutenberg-block/block/Heading/block.js:208
+msgid "H2"
+msgstr ""
+
+#: assets/js/bricks.js:35628
+#: assets/js/gutenberg-block/block/Heading/block.js:209
+msgid "H3"
+msgstr ""
+
+#: assets/js/bricks.js:35628
+#: assets/js/gutenberg-block/block/Heading/block.js:210
+msgid "H4"
+msgstr ""
+
+#: assets/js/bricks.js:35628
+#: assets/js/gutenberg-block/block/Heading/block.js:211
+msgid "H5"
+msgstr ""
+
+#: assets/js/bricks.js:35628
+#: assets/js/gutenberg-block/block/Heading/block.js:212
+msgid "H6"
+msgstr ""
+
+#: assets/js/bricks.js:35807 assets/js/gutenberg-block/block/image/block.js:113
+msgid "Brick Image"
+msgstr ""
+
+#: assets/js/bricks.js:35809 assets/js/gutenberg-block/block/image/block.js:116
+msgid "Bricks Image is a gutenberg block which used to insert image."
+msgstr ""
+
+#: assets/js/bricks.js:35811 assets/js/gutenberg-block/block/image/block.js:119
+msgid "Image"
+msgstr ""
+
+#: assets/js/bricks.js:36036 assets/js/gutenberg-block/block/image/block.js:387
+msgid "Enable Caption"
+msgstr ""
+
+#: assets/js/bricks.js:36048 assets/js/gutenberg-block/block/image/block.js:397
+msgid "Eable Link To"
+msgstr ""
+
+#: assets/js/bricks.js:36116 assets/js/gutenberg-block/block/image/block.js:453
+msgid "none"
+msgstr ""
+
+#: assets/js/bricks.js:36365
+#: assets/js/gutenberg-block/block/media-with-text/block.js:92
+msgid "Bricks Media & Text"
+msgstr ""
+
+#: assets/js/bricks.js:36367
+#: assets/js/gutenberg-block/block/media-with-text/block.js:95
+msgid ""
+"Bricks Media & Text is a gutenberg block where you can add media along with "
+"text."
+msgstr ""
+
+#: assets/js/bricks.js:36369
+#: assets/js/gutenberg-block/block/media-with-text/block.js:98
+msgid "Media"
+msgstr ""
+
+#: assets/js/bricks.js:36369 assets/js/bricks.js:44943
+#: assets/js/gutenberg-block/block/media-with-text/block.js:98
+#: assets/js/gutenberg-block/block/popup/block.js:307
+msgid "Text"
+msgstr ""
+
+#: assets/js/bricks.js:36578
+msgid "Image Size"
+msgstr ""
+
+#: assets/js/bricks.js:36581
+#: assets/js/gutenberg-block/block/media-with-text/block.js:310
+msgid "ON - Set Image Full Size\" "
+msgstr ""
+
+#: assets/js/bricks.js:36873 assets/js/gutenberg-block/block/column/block.js:57
+msgid "Bricks Columns"
+msgstr ""
+
+#: assets/js/bricks.js:36875 assets/js/gutenberg-block/block/column/block.js:60
+msgid ""
+"Bricks Columns is a gutenberg block used to create a column grid layout."
+msgstr ""
+
+#: assets/js/bricks.js:36877 assets/js/gutenberg-block/block/column/block.js:63
+msgid "column"
+msgstr ""
+
+#: assets/js/bricks.js:36945
+#: assets/js/gutenberg-block/block/column/block.js:173
+msgid "Column Settings "
+msgstr ""
+
+#: assets/js/bricks.js:36974
+#: assets/js/gutenberg-block/block/column/block.js:196
+msgid "Select Column Alignment"
+msgstr ""
+
+#: assets/js/bricks.js:36976
+#: assets/js/gutenberg-block/block/column/block.js:199
+msgid "Stretch"
+msgstr ""
+
+#: assets/js/bricks.js:36976
+#: assets/js/gutenberg-block/block/column/block.js:201
+msgid "Flex-Start"
+msgstr ""
+
+#: assets/js/bricks.js:36976
+#: assets/js/gutenberg-block/block/column/block.js:202
+msgid "Flex-End"
+msgstr ""
+
+#: assets/js/bricks.js:36976
+#: assets/js/gutenberg-block/block/column/block.js:203
+msgid "Baseline"
+msgstr ""
+
+#: assets/js/bricks.js:37046
+#: assets/js/gutenberg-block/block/column/block.js:268
+msgid "Bricks - Column"
+msgstr ""
+
+#: assets/js/bricks.js:37166 assets/js/gutenberg-block/block/list/block.js:67
+msgid "Bricks List"
+msgstr ""
+
+#: assets/js/bricks.js:37168 assets/js/gutenberg-block/block/list/block.js:70
+msgid "Bricks List is a gutenberg block which is used to create a list."
+msgstr ""
+
+#: assets/js/bricks.js:37170 assets/js/gutenberg-block/block/list/block.js:73
+msgid "List"
+msgstr ""
+
+#: assets/js/bricks.js:37320
+msgid "Icon Setting"
+msgstr ""
+
+#: assets/js/bricks.js:37522 assets/js/gutenberg-block/block/list/block.js:473
+msgid "Write ..."
+msgstr ""
+
+#: assets/js/bricks.js:37706
+#: assets/js/gutenberg-block/block/slider/block.js:110
+msgid "Bricks Slider"
+msgstr ""
+
+#: assets/js/bricks.js:37708
+#: assets/js/gutenberg-block/block/slider/block.js:113
+msgid ""
+"Bricks Separator is a gutenberg block which display multiple images in a "
+"slider."
+msgstr ""
+
+#: assets/js/bricks.js:37710 assets/js/bricks.js:43664
+#: assets/js/gutenberg-block/block/slider/block.js:116
+msgid "images"
+msgstr ""
+
+#: assets/js/bricks.js:37710
+#: assets/js/gutenberg-block/block/slider/block.js:116
+msgid "photos"
+msgstr ""
+
+#: assets/js/bricks.js:37951 assets/js/gutenberg-block/block/slider/edit.js:32
+msgid "Fade"
+msgstr ""
+
+#: assets/js/bricks.js:37951 assets/js/gutenberg-block/block/slider/edit.js:33
+msgid "Scroll"
+msgstr ""
+
+#: assets/js/bricks.js:37953 assets/js/gutenberg-block/block/slider/edit.js:37
+msgid "Attachment Page"
+msgstr ""
+
+#: assets/js/bricks.js:37953 assets/js/gutenberg-block/block/slider/edit.js:38
+msgid "Media File"
+msgstr ""
+
+#: assets/js/bricks.js:38089 assets/js/gutenberg-block/block/slider/edit.js:159
+msgid "Thumbnails are cropped to align."
+msgstr ""
+
+#: assets/js/bricks.js:38089 assets/js/gutenberg-block/block/slider/edit.js:160
+msgid "Thumbnails are not cropped."
+msgstr ""
+
+#: assets/js/bricks.js:38218 assets/js/gutenberg-block/block/slider/edit.js:295
+msgid "Edit Slider"
+msgstr ""
+
+#: assets/js/bricks.js:38236 assets/js/bricks.js:43572
+#: assets/js/gutenberg-block/block/gallery/block.js:340
+#: assets/js/gutenberg-block/block/slider/edit.js:314
+msgid "Slider"
+msgstr ""
+
+#: assets/js/bricks.js:38237 assets/js/gutenberg-block/block/slider/edit.js:316
+msgid "Drag images, upload new ones or select files from your library."
+msgstr ""
+
+#: assets/js/bricks.js:38258 assets/js/gutenberg-block/block/slider/edit.js:335
+msgid "Slider Settings"
+msgstr ""
+
+#: assets/js/bricks.js:38263 assets/js/gutenberg-block/block/slider/edit.js:338
+msgid "Autoplay"
+msgstr ""
+
+#: assets/js/bricks.js:38268 assets/js/gutenberg-block/block/slider/edit.js:343
+msgid "Speed"
+msgstr ""
+
+#: assets/js/bricks.js:38276 assets/js/gutenberg-block/block/slider/edit.js:351
+msgid "Effect"
+msgstr ""
+
+#: assets/js/bricks.js:38282 assets/js/gutenberg-block/block/slider/edit.js:357
+msgid "Link To"
+msgstr ""
+
+#: assets/js/bricks.js:38288 assets/js/gutenberg-block/block/slider/edit.js:363
+msgid "Show/Hide Slider Arrows"
+msgstr ""
+
+#: assets/js/bricks.js:38351 assets/js/bricks.js:43648
+msgid "Upload an image"
+msgstr ""
+
+#: assets/js/bricks.js:38548
+#: assets/js/gutenberg-block/block/slider/slider-image.js:148
+msgid "Remove Image"
+msgstr ""
+
+#: assets/js/bricks.js:38558
+#: assets/js/gutenberg-block/block/slider/slider-image.js:156
+msgid "Write caption…"
+msgstr ""
+
+#: assets/js/bricks.js:42023
+#: assets/js/gutenberg-block/block/social-links/block.js:184
+msgid "Bricks Social"
+msgstr ""
+
+#: assets/js/bricks.js:42025
+#: assets/js/gutenberg-block/block/social-links/block.js:187
+msgid "Bricks Social is a gutenberg block where you can add social media list."
+msgstr ""
+
+#: assets/js/bricks.js:42027
+#: assets/js/gutenberg-block/block/social-links/block.js:190
+msgid "Social"
+msgstr ""
+
+#: assets/js/bricks.js:42175
+#: assets/js/gutenberg-block/block/social-links/block.js:397
+msgid "Social Share Channels"
+msgstr ""
+
+#: assets/js/bricks.js:42183
+#: assets/js/gutenberg-block/block/social-links/block.js:408
+msgid ". "
+msgstr ""
+
+#: assets/js/bricks.js:42236
+#: assets/js/gutenberg-block/block/social-links/block.js:457
+msgid "Select Border Radius"
+msgstr ""
+
+#: assets/js/bricks.js:42418
+#: assets/js/gutenberg-block/block/tabbing/block.js:15
+msgid "Tab 1"
+msgstr ""
+
+#: assets/js/bricks.js:42419
+#: assets/js/gutenberg-block/block/tabbing/block.js:17
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+msgstr ""
+
+#: assets/js/bricks.js:42421
+#: assets/js/gutenberg-block/block/tabbing/block.js:21
+msgid "Tab 2"
+msgstr ""
+
+#: assets/js/bricks.js:42422
+#: assets/js/gutenberg-block/block/tabbing/block.js:23
+msgid ""
+"This has been the industry's standard dummy text ever since the 1500s, when "
+"an unknown printer took a galley of type and scrambled it to make a type "
+"specimen book. "
+msgstr ""
+
+#: assets/js/bricks.js:42518
+#: assets/js/gutenberg-block/block/tabbing/block.js:121
+msgid "Bricks Tab"
+msgstr ""
+
+#: assets/js/bricks.js:42520
+#: assets/js/gutenberg-block/block/tabbing/block.js:124
+msgid "Bricks Tab is a gutenberg block where you can add content in tabbing."
+msgstr ""
+
+#: assets/js/bricks.js:42522
+#: assets/js/gutenberg-block/block/tabbing/block.js:127
+msgid "Tab"
+msgstr ""
+
+#: assets/js/bricks.js:42798
+#: assets/js/gutenberg-block/block/tabbing/edit.js:262
+msgid "Tab Title Settings"
+msgstr ""
+
+#: assets/js/bricks.js:42943
+#: assets/js/gutenberg-block/block/tabbing/edit.js:337
+msgid "Tab Content Settings"
+msgstr ""
+
+#: assets/js/bricks.js:43062
+#: assets/js/gutenberg-block/block/tabbing/edit.js:398
+msgid "Border Settings"
+msgstr ""
+
+#: assets/js/bricks.js:43144
+msgid "Title…"
+msgstr ""
+
+#: assets/js/bricks.js:43150
+msgid "Remove tab"
+msgstr ""
+
+#: assets/js/bricks.js:43176
+msgid "Add tab"
+msgstr ""
+
+#: assets/js/bricks.js:43182
+msgid "New Tab"
+msgstr ""
+
+#: assets/js/bricks.js:43182
+msgid "Enter your content."
+msgstr ""
+
+#: assets/js/bricks.js:43205
+msgid "Enter text…"
+msgstr ""
+
+#: assets/js/bricks.js:43468
+#: assets/js/gutenberg-block/block/gallery/block.js:226
+msgid "Edit Gallery"
+msgstr ""
+
+#: assets/js/bricks.js:43486 assets/js/bricks.js:43664
+#: assets/js/gutenberg-block/block/gallery/block.js:245
+msgid "Gallery"
+msgstr ""
+
+#: assets/js/bricks.js:43487
+#: assets/js/gutenberg-block/block/gallery/block.js:247
+msgid "No images selected. Adding images to start using this block."
+msgstr ""
+
+#: assets/js/bricks.js:43569
+#: assets/js/gutenberg-block/block/gallery/block.js:334
+msgid "Image Settings"
+msgstr ""
+
+#: assets/js/bricks.js:43572
+#: assets/js/gutenberg-block/block/gallery/block.js:338
+msgid "Masonry"
+msgstr ""
+
+#: assets/js/bricks.js:43572
+#: assets/js/gutenberg-block/block/gallery/block.js:339
+msgid "Square"
+msgstr ""
+
+#: assets/js/bricks.js:43580
+#: assets/js/gutenberg-block/block/gallery/block.js:347
+msgid "Column Settings"
+msgstr ""
+
+#: assets/js/bricks.js:43628 assets/js/bricks.js:43759
+msgid "Slider image"
+msgstr ""
+
+#: assets/js/bricks.js:43660
+msgid "Bricks Gallery"
+msgstr ""
+
+#: assets/js/bricks.js:43662
+msgid ""
+"Bricks Gallery is a gutenberg block that can present photos, art and "
+"different visual materials."
+msgstr ""
+
+#: assets/js/bricks.js:43848
+#: assets/js/gutenberg-block/block/counter/block.js:76
+msgid "Bricks Counter"
+msgstr ""
+
+#: assets/js/bricks.js:43850
+#: assets/js/gutenberg-block/block/counter/block.js:78
+msgid ""
+"Bricks Counter is a gutenberg block that animates a number from zero and "
+"counting up towards it."
+msgstr ""
+
+#: assets/js/bricks.js:43852
+#: assets/js/gutenberg-block/block/counter/block.js:80
+msgid "counter"
+msgstr ""
+
+#: assets/js/bricks.js:43953
+#: assets/js/gutenberg-block/block/counter/block.js:204
+msgid "Counter Type"
+msgstr ""
+
+#: assets/js/bricks.js:43988
+msgid "Counter Settings"
+msgstr ""
+
+#: assets/js/bricks.js:44016
+#: assets/js/gutenberg-block/block/counter/block.js:244
+msgid "Circle Counter Color Settings"
+msgstr ""
+
+#: assets/js/bricks.js:44018
+#: assets/js/gutenberg-block/block/counter/block.js:247
+msgid "Circle Size"
+msgstr ""
+
+#: assets/js/bricks.js:44058
+#: assets/js/gutenberg-block/block/counter/block.js:270
+msgid "Bar Counter Color Settings"
+msgstr ""
+
+#: assets/js/bricks.js:44428 assets/js/gutenberg-block/block/Icons/block.js:71
+msgid "Bricks Icons"
+msgstr ""
+
+#: assets/js/bricks.js:44429 assets/js/gutenberg-block/block/Icons/block.js:73
+msgid ""
+"Bricks Icons is a gutenberg block where you can insert Font Awesome class "
+"names to add icons."
+msgstr ""
+
+#: assets/js/bricks.js:44432 assets/js/gutenberg-block/block/Icons/block.js:77
+msgid "icon"
+msgstr ""
+
+#: assets/js/bricks.js:44560 assets/js/gutenberg-block/block/Icons/block.js:237
+msgid "Icon Size"
+msgstr ""
+
+#: assets/js/bricks.js:44603 assets/js/gutenberg-block/block/Icons/block.js:260
+msgid "Border"
+msgstr ""
+
+#: assets/js/bricks.js:44817 assets/js/gutenberg-block/block/popup/block.js:111
+msgid "Bricks Popup"
+msgstr ""
+
+#: assets/js/bricks.js:44819 assets/js/gutenberg-block/block/popup/block.js:114
+msgid "Bricks Popup is a gutenberg block that comes with a modal popup."
+msgstr ""
+
+#: assets/js/bricks.js:44821 assets/js/gutenberg-block/block/popup/block.js:117
+msgid "Popup"
+msgstr ""
+
+#: assets/js/bricks.js:44939 assets/js/gutenberg-block/block/popup/block.js:302
+msgid "Select Button type"
+msgstr ""
+
+#: assets/js/bricks.js:44941 assets/js/gutenberg-block/block/popup/block.js:304
+msgid "Button Type"
+msgstr ""
+
+#: assets/js/bricks.js:44952 assets/js/gutenberg-block/block/popup/block.js:316
+msgid "Button Text Settings"
+msgstr ""
+
+#: assets/js/bricks.js:44956 assets/js/gutenberg-block/block/popup/block.js:320
+msgid "Change Text"
+msgstr ""
+
+#: assets/js/bricks.js:44963
+msgid "Font Size"
+msgstr ""
+
+#: assets/js/bricks.js:44964
+msgid "Select Text Size"
+msgstr ""
+
+#: assets/js/bricks.js:44979 assets/js/gutenberg-block/block/popup/block.js:336
+msgid "Text color"
+msgstr ""
+
+#: assets/js/bricks.js:44985 assets/js/gutenberg-block/block/popup/block.js:342
+msgid "Button Text color"
+msgstr ""
+
+#: assets/js/bricks.js:44992 assets/js/gutenberg-block/block/popup/block.js:350
+msgid "Font Weight"
+msgstr ""
+
+#: assets/js/bricks.js:44994 assets/js/gutenberg-block/block/popup/block.js:353
+msgid "300"
+msgstr ""
+
+#: assets/js/bricks.js:44994 assets/js/gutenberg-block/block/popup/block.js:354
+msgid "500"
+msgstr ""
+
+#: assets/js/bricks.js:44994 assets/js/gutenberg-block/block/popup/block.js:355
+msgid "600"
+msgstr ""
+
+#: assets/js/bricks.js:44994 assets/js/gutenberg-block/block/popup/block.js:356
+msgid "700"
+msgstr ""
+
+#: assets/js/bricks.js:44994 assets/js/gutenberg-block/block/popup/block.js:357
+msgid "800"
+msgstr ""
+
+#: assets/js/bricks.js:45002 assets/js/gutenberg-block/block/popup/block.js:363
+msgid "Button Settings"
+msgstr ""
+
+#: assets/js/bricks.js:45007 assets/js/gutenberg-block/block/popup/block.js:366
+msgid "Button AlignMent"
+msgstr ""
+
+#: assets/js/bricks.js:45022 assets/js/gutenberg-block/block/popup/block.js:383
+msgid "Button background color"
+msgstr ""
+
+#: assets/js/bricks.js:45134 assets/js/bricks.js:45581
+#: assets/js/bricks.js:45582
+#: assets/js/gutenberg-block/block/countdown/block.js:382
+#: assets/js/gutenberg-block/block/countdown/block.js:383
+#: assets/js/gutenberg-block/block/popup/block.js:457
+msgid "Radius"
+msgstr ""
+
+#: assets/js/bricks.js:45143 assets/js/gutenberg-block/block/popup/block.js:464
+msgid "Border Size"
+msgstr ""
+
+#: assets/js/bricks.js:45167 assets/js/gutenberg-block/block/popup/block.js:482
+msgid "Popup Settings"
+msgstr ""
+
+#: assets/js/bricks.js:45172 assets/js/gutenberg-block/block/popup/block.js:485
+msgid "Popup width"
+msgstr ""
+
+#: assets/js/bricks.js:45185 assets/js/gutenberg-block/block/popup/block.js:494
+msgid "Outer Padding"
+msgstr ""
+
+#: assets/js/bricks.js:45369
+#: assets/js/gutenberg-block/block/countdown/block.js:77
+msgid "Bricks Countdown"
+msgstr ""
+
+#: assets/js/bricks.js:45371
+#: assets/js/gutenberg-block/block/countdown/block.js:80
+msgid ""
+"Bricks Countdown is a gutenberg block used to display the count down to any "
+"special event."
+msgstr ""
+
+#: assets/js/bricks.js:45373
+#: assets/js/gutenberg-block/block/countdown/block.js:83
+msgid "Countdown"
+msgstr ""
+
+#: assets/js/bricks.js:45534
+#: assets/js/gutenberg-block/block/countdown/block.js:353
+msgid "Select Date"
+msgstr ""
+
+#: assets/js/bricks.js:45543
+msgid "Countdown Settings"
+msgstr ""
+
+#: assets/js/bricks.js:45545
+msgid "Number Font Size"
+msgstr ""
+
+#: assets/js/bricks.js:45546
+msgid "Select Number Size"
+msgstr ""
+
+#: assets/js/bricks.js:45561
+#: assets/js/gutenberg-block/block/countdown/block.js:370
+msgid "Number color"
+msgstr ""
+
+#: assets/js/bricks.js:45574
+#: assets/js/gutenberg-block/block/countdown/block.js:377
+msgid "Background color"
+msgstr ""
+
+#: assets/js/bricks.js:45593
+#: assets/js/gutenberg-block/block/countdown/block.js:390
+msgid "Wrapper Settings"
+msgstr ""
+
+#: assets/js/bricks.js:45601
+#: assets/js/gutenberg-block/block/countdown/block.js:394
+msgid "Wrapper Background color"
+msgstr ""
+
+#: assets/js/bricks.js:45608
+#: assets/js/gutenberg-block/block/countdown/block.js:401
+msgid "Padding Left & Right"
+msgstr ""
+
+#: assets/js/bricks.js:45609 assets/js/bricks.js:45619
+#: assets/js/gutenberg-block/block/countdown/block.js:402
+msgid "Padding"
+msgstr ""
+
+#: assets/js/bricks.js:45618
+msgid "Padding Top & Bottom"
+msgstr ""
+
+#: assets/js/gutenberg-block/block/editor-width/block.js:45
+msgid "No Sidebar"
+msgstr ""
+
+#: assets/js/gutenberg-block/block/editor-width/block.js:46
+msgid "With Sidebar"
+msgstr ""
+
+#: assets/js/gutenberg-block/block/editor-width/block.js:47
+msgid "Full Screen Width"
+msgstr ""
+
+#: assets/js/gutenberg-block/block/editor-width/block.js:61
+#: assets/js/gutenberg-block/block/editor-width/block.js:62
+msgid "Editor Max Width"
+msgstr ""
+
+#: assets/js/gutenberg-block/block/editor-width/block.js:79
+msgid "*note: You can define these widths in your multidots Blocks settings."
+msgstr ""
+
+#: freemius/templates/plugin-info/description.php:30
+msgid "selling_point_"
+msgstr ""
+
+#: includes/admin/class-mdbp-admin.php:195
+#: includes/admin/class-mdbp-admin.php:196
+msgid "About Bricks"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:63
+msgid "Theme Required Settings"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:66
+msgid "Template Required Settings"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:69
+msgid "Block Required Settings"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:168
+msgid "Importing Data"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:175
+msgid "Required Plugins"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:182
+msgid "Theme Content (ie. Pages, Posts, CPT, Media etc.)"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:188
+msgid "Customize Widget"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:194
+msgid "Customize Settings"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:223
+msgid "New Page"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:228
+msgid "Existing Page"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:238
+msgid "Delete Old content"
+msgstr ""
+
+#: includes/admin/class-mdbp-import.php:319
+#: includes/admin/class-mdbp-import.php:439
+#: includes/admin/class-mdbp-import.php:490
+#: includes/admin/class-mdbp-import.php:520
+msgid "Could not copy file."
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-content.php:616
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-content.php:627
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-content.php:664
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-content.php:669
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-content.php:675
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-content.php:679
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-content.php:684
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-widget.php:111
+msgid "Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-widget.php:145
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-widget.php:181
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-widget.php:199
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-widget.php:228
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-widget.php:290
+msgid "Imported"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-widget.php:293
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-import-demo-widget.php:298
+msgid "No Title"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-parser-content.php:70
+#: includes/admin/import/class-mdbp-parser-content.php:78
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/admin/import/class-mdbp-parser-content.php:82
+#: includes/admin/import/class-mdbp-parser-content.php:87
+#: includes/admin/import/class-mdbp-parser-content.php:304
+#: includes/admin/import/class-mdbp-parser-content.php:503
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:18
+msgid "Thanks For Installing WPBricks"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:27
+msgid "Add Block/Template to page and modify as per your requirement."
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:30
+msgid "Step 1:"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:31
+msgid "Add Block/Template to page"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:35
+msgid "Step 2:"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:36
+msgid "Add Block/Template through Bricks select block"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:40
+msgid "Step 3:"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:41
+msgid "You can select pre designed block or template using select block"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:46
+msgid "Step 4:"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:47
+msgid "Edit block and design modification"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:71
+msgid "Plugin Name"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:72
+#: includes/admin/settings/mdbp-about-bricks.php:548
+msgid "WPBricks Manager"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:75
+msgid "Installed Version"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:76
+#: includes/admin/settings/mdbp-about-bricks.php:549
+msgid "Free Version 1.1"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:79
+msgid "Help & Support"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:82
+msgid "Quick Start"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:83
+msgid "Guide Documentation"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:85
+msgid "Support Forum"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:90
+msgid "Localization"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:91
+msgid "English"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:172
+msgid "First page"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:183
+msgid "Previous page"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:190
+msgid "Current Page"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:206
+msgid "Next page"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:217
+msgid "Last page"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:281
+#: includes/admin/settings/mdbp-about-bricks.php:292
+#: includes/admin/settings/mdbp-about-bricks.php:380
+#: includes/admin/settings/mdbp-about-bricks.php:391
+#: includes/admin/settings/mdbp-about-bricks.php:479
+#: includes/admin/settings/mdbp-about-bricks.php:490
+msgid "Preview"
+msgstr ""
+
+#: includes/admin/settings/mdbp-about-bricks.php:297
+#: includes/admin/settings/mdbp-about-bricks.php:331
+#: includes/admin/settings/mdbp-about-bricks.php:396
+#: includes/admin/settings/mdbp-about-bricks.php:429
+#: includes/admin/settings/mdbp-about-bricks.php:495
+#: includes/admin/settings/mdbp-about-bricks.php:528
+msgid "Import"
+msgstr ""
+
+#: includes/class-mdbp-block-category.php:53
+msgid "Bricks Blocks"
+msgstr ""
+
+#: wpbricks.php:229
+msgid "Visit Site"
+msgstr ""
+
+#: wpbricks.php:230
+msgid "Support"
+msgstr ""
+
+#: wpbricks.php:231
+msgid "Documentation"
+msgstr ""
+
+#: wpbricks.php:232
+msgid "Rate the plugin"
+msgstr ""
+
+#: wpbricks.php:232
+msgid "Rate the plugin ★★★★★"
+msgstr ""
+
+#: wpbricks.php:245
+msgid "Settings"
+msgstr ""
+
+#~ msgid ""
+#~ "Subscribe for the latest plugin update and get notified when we update "
+#~ "our plugin and launch new products for free!"
+#~ msgstr ""
+#~ "Abonnieren Sie die neuesten Plugin-Update und erhalten Sie "
+#~ "benachrichtigt, wenn wir unser Plugin aktualisieren und neue Produkte "
+#~ "kostenlos starten!"
+
+#~ msgid "Free Plugins"
+#~ msgstr "Kostenlose Plugins"
+
+#~ msgid "Free Themes"
+#~ msgstr "Freie Themen"
+
+#~ msgid "Free vs Pro"
+#~ msgstr "Frei vs Pro"
+
+#~ msgid "KEY FEATURES LIST"
+#~ msgstr "HAUPTMERKMALE LISTE"
+
+#~ msgid "FREE"
+#~ msgstr "FREI"
+
+#~ msgid "PRO"
+#~ msgstr "PROFI"
+
+#~ msgid "UPGRADE TO <br> PREMIUM VERSION"
+#~ msgstr "UPGRADEN AUF <br> PREMIUM VERSION"
+
+#~ msgid "OUR POPULAR THEMES"
+#~ msgstr "UNSERE POPULÄRE THEMEN"
+
+#~ msgid "Appify – Multipurpose WordPress Theme"
+#~ msgstr "Appify - Mehrzweck-WordPress Theme"
+
+#~ msgid "Brand Agency – WordPress Theme for Agency"
+#~ msgstr "Brand Agency - WordPress Theme für Agentur"
+
+#~ msgid "Meraki - WordPress Theme for Resume"
+#~ msgstr "Meraki - WordPress Theme für Lebenslauf"

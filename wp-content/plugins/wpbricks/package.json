@@ -1,0 +1,50 @@
+{
+  "name": "wpbricks",
+  "version": "1.0.0",
+  "license": "GPL-2.0-or-later",
+  "main": "init.js",
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "cross-env": "^5.0.1",
+    "eslint": "^7.5.0",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "@babel/preset-react": "^7.10.4"
+  },
+  "scripts": {
+    "build": "cross-env BABEL_ENV=default NODE_ENV=production webpack",
+    "dev": "cross-env BABEL_ENV=default webpack --watch",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "dependencies": {
+    "babel-preset-minify": "^0.5.0",
+    "classnames": "^2.2.6",
+    "compression-webpack-plugin": "^4.0.0",
+    "eslint-config-wordpress": "^2.0.0",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.19",
+    "memize": "^1.1.0",
+    "react": "^16.13.1",
+    "react-apollo": "^2.5.5",
+    "react-awesome-modal": "^2.0.5",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1",
+    "react-slick": "^0.23.2",
+    "react-tabs": "^3.0.0",
+    "serialize-javascript": "^4.0.0",
+    "@babel/polyfill": "^7.10.4",
+    "@wordpress/plugins": "^2.20.2",
+    "react-infinite-scroller": "^1.2.4"
+  },
+  "resolutions": {
+    "serialize-javascript": "^4.0.0",
+    "yargs-parser": "^13.1.2"
+  }
+}

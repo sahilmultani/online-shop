@@ -1,0 +1,30 @@
+
+.wpbricks-message-cls .notice-container {
+    padding: 18px 0 18px;
+    align-items: start;
+}
+
+.wpbricks-message-cls .notice-content {
+    margin-left: 15px;
+}
+
+.wpbricks-message-cls .notice-container {
+    display: flex;
+    justify-content: left;
+}
+
+.wpbricks-message-cls .custom-logo {
+    margin-left: 10px;
+    width: 75px;
+}
+
+.wpbricks-message-cls .notice-heading {
+    margin: 0 0 8px;
+    padding: 0;
+    font-weight: bolder;
+    font-size: 1.3em;
+    color: #2e4453;
+}
+.wpbricks-message-cls .notice-image {
+    align-self: center;
+}
